@@ -1,5 +1,5 @@
 <h1>👋 Hello there! I'm Farid Alvarez</h1>
-<h3>I am a Data enthusiast, doing Business Intelligence things</h3>
+<h3>I am a data enthusiast, doing Business Intelligence things</h3>
 
 - 🏢 I’m currently working at <a href="https://www.globant.com/">_**Globant**_ </a>
 - 🌱 I’m currently learning Data Science stuff
